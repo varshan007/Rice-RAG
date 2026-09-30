@@ -8,3 +8,4 @@ langchain-chroma
 streamlit
 python-dotenv
 requests
+sentence-transformers

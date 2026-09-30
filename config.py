@@ -18,6 +18,6 @@ TOP_K = 3
 MAX_DISTANCE = 0.8  # Lower means closer in cosine distance
 
 # --- LLM Settings ---
-LLM_MODEL = "llama3-8b-8192"  # A fast Groq-hosted model
+LLM_MODEL = "qwen/qwen3.8-27b"  # A fast Groq-hosted model
 LLM_TEMPERATURE = 0.1
 LLM_MAX_TOKENS = 512
