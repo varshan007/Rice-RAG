@@ -1,0 +1,10 @@
+pypdf
+youtube-transcript-api
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+chromadb
+langchain-chroma
+streamlit
+python-dotenv
+requests

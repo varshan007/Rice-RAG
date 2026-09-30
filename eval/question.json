@@ -1,0 +1,182 @@
+[
+    {
+        "question": "What is the recommended spacing for planting rice?",
+        "expected_keyword": "20x20 cm"
+    },
+    {
+        "question": "What is the recommended seed rate for transplanted rice?",
+        "expected_keyword": "20-30 kg/ha"
+    },
+    {
+        "question": "What is the recommended seed rate for direct-seeded rice?",
+        "expected_keyword": "40-60 kg/ha"
+    },
+    {
+        "question": "What are the suitable soil types for rice cultivation?",
+        "expected_keyword": "clay loam"
+    },
+    {
+        "question": "What is the ideal soil pH range for rice cultivation?",
+        "expected_keyword": "5.5-6.5"
+    },
+    {
+        "question": "How many days old should rice seedlings generally be at the time of transplanting?",
+        "expected_keyword": "20-25 days"
+    },
+    {
+        "question": "How deep should rice seedlings be transplanted?",
+        "expected_keyword": "2-3 cm"
+    },
+    {
+        "question": "How many seedlings should be planted per hill in transplanted rice?",
+        "expected_keyword": "2-3 seedlings"
+    },
+    {
+        "question": "What is the best method for preparing a field for transplanted rice?",
+        "expected_keyword": "puddling"
+    },
+    {
+        "question": "Why is puddling done before transplanting rice?",
+        "expected_keyword": "reduces water percolation"
+    },
+    {
+        "question": "What are the major nutrients required by rice?",
+        "expected_keyword": "nitrogen, phosphorus, potassium"
+    },
+    {
+        "question": "Which nutrient is mainly responsible for vegetative growth in rice?",
+        "expected_keyword": "nitrogen"
+    },
+    {
+        "question": "What are the symptoms of nitrogen deficiency in rice?",
+        "expected_keyword": "yellowing of older leaves"
+    },
+    {
+        "question": "What are the symptoms of phosphorus deficiency in rice?",
+        "expected_keyword": "purplish leaves"
+    },
+    {
+        "question": "What are the symptoms of potassium deficiency in rice?",
+        "expected_keyword": "leaf margin yellowing"
+    },
+    {
+        "question": "When should nitrogen fertilizer generally be applied in rice?",
+        "expected_keyword": "split application"
+    },
+    {
+        "question": "What is the purpose of applying a basal fertilizer dose in rice?",
+        "expected_keyword": "initial nutrient supply"
+    },
+    {
+        "question": "What is alternate wetting and drying in rice cultivation?",
+        "expected_keyword": "periodic irrigation and drying"
+    },
+    {
+        "question": "How does alternate wetting and drying help rice production?",
+        "expected_keyword": "water saving"
+    },
+    {
+        "question": "What is the critical period for weed management in rice?",
+        "expected_keyword": "15-45 days"
+    },
+    {
+        "question": "What are the major weeds commonly found in rice fields?",
+        "expected_keyword": "Echinochloa"
+    },
+    {
+        "question": "What is the difference between transplanted rice and direct-seeded rice?",
+        "expected_keyword": "seedlings are transplanted"
+    },
+    {
+        "question": "What are the advantages of direct-seeded rice?",
+        "expected_keyword": "reduces labor requirement"
+    },
+    {
+        "question": "What are the major insect pests of rice?",
+        "expected_keyword": "stem borer"
+    },
+    {
+        "question": "What are the symptoms of rice stem borer infestation?",
+        "expected_keyword": "dead hearts"
+    },
+    {
+        "question": "What are the symptoms of brown planthopper infestation in rice?",
+        "expected_keyword": "hopper burn"
+    },
+    {
+        "question": "What are the common diseases affecting rice?",
+        "expected_keyword": "blast"
+    },
+    {
+        "question": "What are the symptoms of rice blast disease?",
+        "expected_keyword": "diamond-shaped lesions"
+    },
+    {
+        "question": "What causes bacterial leaf blight in rice?",
+        "expected_keyword": "Xanthomonas"
+    },
+    {
+        "question": "What are the symptoms of bacterial leaf blight in rice?",
+        "expected_keyword": "yellowish-white lesions"
+    },
+    {
+        "question": "When should irrigation be reduced or stopped before rice harvesting?",
+        "expected_keyword": "before harvest"
+    },
+    {
+        "question": "How can farmers determine whether rice is ready for harvesting?",
+        "expected_keyword": "80-85% grains mature"
+    },
+    {
+        "question": "What is the recommended moisture content of rice grain at harvest?",
+        "expected_keyword": "20-25%"
+    },
+    {
+        "question": "What are the major post-harvest operations in rice?",
+        "expected_keyword": "threshing, drying, milling"
+    },
+    {
+        "question": "Why is proper drying important after rice harvesting?",
+        "expected_keyword": "prevents fungal growth"
+    },
+    {
+        "question": "What factors affect rice yield?",
+        "expected_keyword": "variety, water, nutrients, pests"
+    },
+    {
+        "question": "What is the role of certified seed in rice production?",
+        "expected_keyword": "genetic purity"
+    },
+    {
+        "question": "How does water stress affect rice plants?",
+        "expected_keyword": "reduces yield"
+    },
+    {
+        "question": "What is the critical irrigation period in rice?",
+        "expected_keyword": "flowering"
+    },
+    {
+        "question": "How can integrated pest management be used in rice cultivation?",
+        "expected_keyword": "cultural, biological and chemical methods"
+    },
+    {
+        "question": "What is the recommended spacing for wheat cultivation?",
+        "expected_keyword": ""
+    },
+    {
+        "question": "How do I bake a chocolate cake?",
+        "expected_keyword": ""
+    },
+    {
+        "question": "What is the capital of France?",
+        "expected_keyword": ""
+    },
+    {
+        "question": "How can I repair a laptop battery?",
+        "expected_keyword": ""
+    },
+    {
+        "question": "What is the recommended vaccination schedule for cattle?",
+        "expected_keyword": ""
+    }
+]
